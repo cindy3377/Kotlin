@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Lab2.main" target="17" />
+      <module name="Lab2.test" target="17" />
+      <module name="StudyRegister" target="1.8" />
+      <module name="StudyRegister.main" target="1.8" />
+      <module name="StudyRegister.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
