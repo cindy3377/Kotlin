@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextGuess" type="id" />
+    <item name="buttonSubmit" type="id" />
+    <item name="textViewResult" type="id" />
+</resources>
